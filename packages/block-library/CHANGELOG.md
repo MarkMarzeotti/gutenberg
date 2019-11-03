@@ -1,4 +1,4 @@
-## 2.9.4 (2019-11-03)
+## Master
 
 ### Enhancements
 
