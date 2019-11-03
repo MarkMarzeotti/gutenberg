@@ -1,3 +1,9 @@
+## 2.9.4 (2019-11-03)
+
+### Enhancements
+
+- Categories block uses `VisuallyHidden` component instead of `screen-reader-text` class.
+
 ## 2.7.0 (2019-08-05)
 
 ### Enhancements
